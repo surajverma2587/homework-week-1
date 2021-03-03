@@ -28,7 +28,7 @@ code .
 
 ### Before Refactor
 
-TODO
+![image before refactor](./assets/images/website-before-refactor.png "Website before refactor")
 
 ### After Refactor
 
