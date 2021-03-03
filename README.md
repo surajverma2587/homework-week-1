@@ -5,11 +5,15 @@
 Click [here](TODO) to view project on GitHub pages.
 ## Description
 
-TODO
+As a marketing agency we were tasked to refactor the webpage by Horiseon by adding Semantic HTML and making the website more accessible
 
 ## What did we do?
 
-TODO
+- Replace HTML element with semantic HTML elements
+- Fixed nav link bug
+- Updated title of webpage for SEO
+- Made images more accessible by adding alt attributes
+- Formatted code using lint (prettier)
 
 ## Getting Started
 
