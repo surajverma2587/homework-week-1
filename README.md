@@ -2,7 +2,7 @@
 
 ## Project Link
 
-Click [here](TODO) to view project on GitHub pages.
+Click [here](https://surajverma2587.github.io/homework-week-1/) to view project on GitHub pages.
 ## Description
 
 As a marketing agency we were tasked to refactor the webpage by Horiseon by adding Semantic HTML and making the website more accessible
